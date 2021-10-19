@@ -1,0 +1,61 @@
+/* .navBarBorder{
+  border-bottom: 3px solid rgb(15, 176, 230);
+
+} */
+*{
+  font-size: 1.2rem;
+  font-family: 'Roboto', sans-serif;
+}
+/* .navbar2{
+  text-align: center;
+} */
+h1{
+  font-size: 3.2rem;
+  color: #1b1c4d;
+  text-align: center;
+  padding: 3px;
+  font-weight: bold;
+
+}
+
+
+p{
+  margin: 5px;
+  font-size: 1.2rem;
+  text-align: center;
+
+}
+h2{
+  color: #1b1c4d;
+  text-align: center;
+  padding: 3px;
+  font-size: larger;
+  font-weight: bold;
+}
+.imgMargin{
+  text-align: center;
+}
+h4{
+  color: #1b1c4d;
+  text-align: center;
+  padding: 3px;
+  font-weight: bold;
+}
+
+
+.column{
+  text-align: center;
+}
+
+
+@media screen and (max-width:600px ){
+  .twobytwo{
+    width: 50vw;
+    display: inline-block;
+  }
+
+  h1{
+  font-size: 2.2rem;    
+
+  }
+}

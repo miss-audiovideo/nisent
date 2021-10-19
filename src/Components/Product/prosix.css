@@ -1,0 +1,74 @@
+.container-acco{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.accordin-head{
+    color: #ff0000;
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 2rem 0;
+ 
+}
+/* .AccordionSection {
+    background-color: #272727;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin: 0;
+   background: #fff;
+   }  */
+
+/* .Container {
+  position: absolute;
+  top: 30%;
+  box-shadow: 2px 10px 35px 1px rgba(153, 153, 153, 0.3);
+} */
+
+.Wrap{
+  /* background: #272727; */
+  border: 2px solid gray;
+  color:black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  text-align: center;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+}
+.accordin-que{
+    padding: 1rem 2rem;
+    font-size:1.3rem;
+  }
+span {
+    margin-right: 1.5rem;
+  }
+  
+.Dropdown{
+  background:black;
+  color:white;
+  width: 50%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 2rem;
+  border-bottom: 1px solid #ff0000;
+  border-top: 1px solid #ff0000;
+}
+p {
+    font-size: 1rem;
+}
+  @media screen and (max-width:480px){
+
+      .accordin-que{
+          padding: 1rem;
+          font-size:1.3rem;
+        }
+}

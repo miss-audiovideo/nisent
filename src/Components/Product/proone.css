@@ -1,0 +1,26 @@
+.hero-body{
+    margin-top: 10%;
+     text-align: center;
+ }
+ .main-image{
+     width:400px;
+ }
+ .conpone-head{
+     font-size: 4rem;
+     color: #ff0000;
+     margin: 0;
+     /* top: -1; */
+     /* z-index:1; */
+ }
+ .conpone-vedio{
+     /* background: white; */
+     border-radius: 50%;
+     width: 6rem;
+     margin-top: 1rem;
+ 
+ }
+ .img-head-container{
+     display: inline-block;
+ 
+ 
+ }

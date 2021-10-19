@@ -1,0 +1,19 @@
+.compfive-head{
+    font-size: 3rem;
+    font-weight: 700;
+
+}
+.compfive-box{
+    padding: 0 2rem;
+    color: gray;
+
+    
+}
+.compfive-para{
+    font-size: 1.1rem;
+}
+.compfive-container{
+    background:rgb(36, 55, 58);
+    opacity: 1;
+
+}
