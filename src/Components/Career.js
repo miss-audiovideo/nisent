@@ -14,5 +14,5 @@ export default function Career() {
         <Accordian/>
             
         </>
-    )
+    );
 }

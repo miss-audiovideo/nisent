@@ -76,5 +76,5 @@ export default function Benefit() {
                 </div>
             
         </>
-    )
+    );
 }

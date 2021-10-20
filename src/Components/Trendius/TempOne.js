@@ -28,5 +28,5 @@ export default function TempOne(props) {
             </div>
             
         </>
-    )
+    );
 }

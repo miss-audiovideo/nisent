@@ -60,7 +60,7 @@ export default function ProThree() {
             </div>
             </section>
         </>
-    )
+    );
 }
 
             
